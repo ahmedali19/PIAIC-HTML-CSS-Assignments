@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 7</title>
+</head>
+<body>
+<h1>Review Form</h1>
+<form action="">
+    <fieldset>
+        <legend>Your Details</legend><br>
+        <label for="Username">
+            Username:
+            <input type="text" name="Username" placeholder="Enter Name"/>
+        </label><br><br>
+        <label for="Email">
+            Email:
+            <input type="email" name="Email" placeholder="Enter Email"/>
+        </label><br><br>
+    </fieldset><br><br><br>
+    <fieldset>
+        <legend>Your Review</legend><br>
+        <label for="Source">
+            How did you hear about us?
+            <select>
+                <option value="Google">Google</option>
+                <option value="Social-Media">Social Media</option>
+                <option value="Newspaper">Newspaper</option>
+                <option value="Other">Other</option>
+            </select>
+        </label><br><br>
+        <label for="Return-Visit">
+            Would you visit again?
+            <input type="radio" name="Return-Visit" value="Yes"/>Yes
+            <input type="radio" name="Return-Visit" value="No"/>No
+            <input type="radio" name="Return-Visit" value="Maybe"/>Maybe
+        </label><br><br>
+        <label for="Comments">
+            Comments: <br><br>
+            <textarea name="Comments" placeholder="Enter your Comments here..." rows="7" cols="40" style="resize: none;"></textarea>
+        </label><br><br>
+        <label for="Subscribe">
+            Sign me up for email updates:
+            <input type="checkbox" name="Subscribe"/>
+        </label><br><br>
+    </fieldset><br><br>
+    <input type="submit" name="Submit" value="Submit">
+    <input type="reset" name="Reset" value="Reset"/>
+</form>
+</body>
+</html>
