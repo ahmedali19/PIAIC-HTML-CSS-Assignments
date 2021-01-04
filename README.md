@@ -9,3 +9,4 @@
 | Assignment 5 | HTML Images | [5.html](/Assignment%205/5.html "Assignment 5") | :heavy_check_mark: |
 | Assignment 6 | HTML Tables | [6.html](/Assignment%206/6.html "Assignment 6") | :heavy_check_mark: |
 | Assignment 7 | HTML Tables | [7.html](/Assignment%207/7.html "Assignment 7") | :heavy_check_mark: |
+| Assignment 8 | HTML Final | [HTML-Final.html](/Assignment%208%20(HTML%20Final)/HTML-Final.html "Assignment 8") | :heavy_check_mark: |
