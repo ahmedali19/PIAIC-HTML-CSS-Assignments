@@ -1,0 +1,24 @@
+body {
+    color: white;
+    background-color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+table {
+    border: groove white 10px;
+    border-spacing: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.num-top {width: 60px;height: 30px;}
+.num-left {width: 30px;height: 60px;}
+.alkalis {color:#EBBFD8;background:#910048;}
+.alkali-metals {color:#FBC9E5;background:#E31C79;}
+.transition-metals {color:#5BC2E7;background:#166FB9;}
+.actinides {color:#A2D34D;background:#458A05;}
+.lanthanides {color:#EADA24;background:#9D6D00;}
+.non-metals {color:#BFEAEC;background:#008C95;}
+.unknown {color:#B5B9BA;background:#505759;}
+.noble-gas {color:#EAB37F;background:#BE4D00;}
+.post-transition-metals {color:#CEDC00;background:#537300;}
+.metalloids {color:#D1A2CB;background:#833177;}
+.halogens {color:#F0B323;background:#B72A00;}

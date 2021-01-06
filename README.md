@@ -10,3 +10,4 @@
 | Assignment 6 | HTML Tables | [6.html](/Assignment%206/6.html "Assignment 6") | :heavy_check_mark: |
 | Assignment 7 | HTML Tables | [7.html](/Assignment%207/7.html "Assignment 7") | :heavy_check_mark: |
 | Assignment 8 | HTML Final | [home.html](/Assignment%208%20(HTML%20Final)/home.html "Home")<br/>[about.html](/Assignment%208%20(HTML%20Final)/about.html "About")<br/>[portfolio.html](/Assignment%208%20(HTML%20Final)/portfolio.html "Portfolio")<br/>[contact.html](/Assignment%208%20(HTML%20Final)/contact.html "Contact")| :heavy_check_mark: |
+| Assignment 9 | CSS Periodic Table | [9.html](/Assignment%209/9.html "Assignment 9")<br/>[style.css](/Assignment%209/style.css "Stylesheet")| :heavy_check_mark: |
