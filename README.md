@@ -1,7 +1,7 @@
 # PIAIC-HTML-CSS-Assignments
 
 | S.No. | Objective | Chapter | Link | Completed |
-| :---: | :---: | :---: | :---: | :---: |
+| :--- | :--- | :---: | :--- | :---: |
 | Assignment 1 | HTML Structure | Chp. 1 | [1.html](/Assignment%201/1.html "Assignment 1") | :heavy_check_mark: |
 | Assignment 2 | HTML Text | Chp. 2 | [2.html](/Assignment%202/2.html "Assignment 2") | :heavy_check_mark: |
 | Assignment 3 | HTML Lists | Chp. 3 | [3.html](/Assignment%203/3.html "Assignment 3") | :heavy_check_mark: |
