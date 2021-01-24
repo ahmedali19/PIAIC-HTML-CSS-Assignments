@@ -1,0 +1,86 @@
+a.active {
+    color:black !important;
+    border-bottom: #36cf36 5px solid !important;
+}
+.si {
+    margin: 0 8px !important;
+}
+.contact-header {
+    background-color: black;
+}
+#about-us button, #about-us {
+    font-weight: bold;
+}
+.bg-image {
+    background-image: url(images/about-us.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+.icon-wrapper-1 {
+    width: 150px;
+    height: 150px;
+    background-color:#e7e7e7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#36cf36;
+}
+.icon-wrapper-2 {
+    width: 70px;
+    height: 70px;
+    background-color:#fdba00;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#ff4209;
+    margin-top: -50px;
+}
+.div-head {
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn-success {
+    color:#ffffff;
+    background-color:#36cf36;
+    font-weight: bold;
+    border:#36cf36 solid 1px;
+}
+.services {
+    border-radius:10px;
+    background-color: #e7e7e7;
+    padding:10px 50px;
+}
+#portfolio {
+    background-color: #0e0e0e;
+}
+.nav-pills>li>a.active {
+    background-color: #0e0e0e !important;
+    color:#ff4209 !important;
+    border-bottom:none !important;
+}
+.nav-pills>li>a{
+    color:#ffffff;
+}
+.placeholder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 50px;
+    height: 200px;
+    width: 200px;
+    border:solid #0e0e0e 0.5px;
+}
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
+#web-design-tab>.extra>.placeholder{background-color:#9400D3;}
+#graphic-design-tab>.extra>.placeholder{background-color:#0084ff;}
+#branding-tab>.extra>.placeholder{background-color:#00FF00;}
+#logo-tab>.extra>.placeholder{background-color:#FFFF00;}
+#marketing-tab>.extra>.placeholder{background-color:#FF7F00;}
+#advertisement-tab>.extra>.placeholder{background-color:#ff4800;}
