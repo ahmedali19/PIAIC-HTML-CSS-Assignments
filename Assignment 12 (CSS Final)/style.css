@@ -1,86 +1,177 @@
 a.active {
-    color:black !important;
-    border-bottom: #36cf36 5px solid !important;
+  color: black !important;
+  border-bottom: #678e19 5px solid !important;
 }
 .si {
-    margin: 0 8px !important;
+  margin: 0 8px !important;
 }
 .contact-header {
-    background-color: black;
+  background-color: black;
 }
-#about-us button, #about-us {
-    font-weight: bold;
+#about-us button,
+#about-us {
+  font-weight: bold;
 }
 .bg-image {
-    background-image: url(images/about-us.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;
+  background-image: url(images/about-us.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .icon-wrapper-1 {
-    width: 150px;
-    height: 150px;
-    background-color:#e7e7e7;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color:#36cf36;
+  width: 150px;
+  height: 150px;
+  background-color: #e7e7e7;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #678e19;
 }
 .icon-wrapper-2 {
-    width: 70px;
-    height: 70px;
-    background-color:#fdba00;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color:#ff4209;
-    margin-top: -50px;
+  width: 70px;
+  height: 70px;
+  background-color: #fdba00;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff4209;
+  margin-top: -50px;
+}
+.icon-wrapper-3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #678e19;
+  border: #e7e7e7 solid 5px;
+}
+.num-wrapper-1 {
+  width: 40px;
+  height: 40px;
+  background-color: #fdba00;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  font-weight: bolder;
+  position: absolute;
+  margin-top: -150px;
+  font-size: 24px;
 }
 .div-head {
-    font-size: 40px;
-    font-weight: bold;
+  font-size: 40px;
+  font-weight: bold;
 }
 .btn-success {
-    color:#ffffff;
-    background-color:#36cf36;
-    font-weight: bold;
-    border:#36cf36 solid 1px;
+  color: #ffffff;
+  background-color: #678e19;
+  font-weight: bold;
+  border: #678e19 solid 1px;
 }
 .services {
-    border-radius:10px;
-    background-color: #e7e7e7;
-    padding:10px 50px;
+  border-radius: 10px;
+  background-color: #e7e7e7;
+  padding: 10px 50px;
 }
-#portfolio {
-    background-color: #0e0e0e;
+#portfolio,
+#pricing {
+  background-color: #0e0e0e;
 }
-.nav-pills>li>a.active {
-    background-color: #0e0e0e !important;
-    color:#ff4209 !important;
-    border-bottom:none !important;
+.nav-pills > li > a.active {
+  background-color: #0e0e0e !important;
+  color: #ff4209 !important;
+  border-bottom: none !important;
 }
-.nav-pills>li>a{
-    color:#ffffff;
+.nav-pills > li > a {
+  color: #ffffff;
 }
-.placeholder{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-weight: bold;
-    font-size: 50px;
-    height: 200px;
-    width: 200px;
-    border:solid #0e0e0e 0.5px;
+.placeholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 50px;
+  height: 200px;
+  width: 200px;
+  border: solid #0e0e0e 0.5px;
 }
 .break {
-    flex-basis: 100%;
-    height: 0;
+  flex-basis: 100%;
+  height: 0;
 }
-#web-design-tab>.extra>.placeholder{background-color:#9400D3;}
-#graphic-design-tab>.extra>.placeholder{background-color:#0084ff;}
-#branding-tab>.extra>.placeholder{background-color:#00FF00;}
-#logo-tab>.extra>.placeholder{background-color:#FFFF00;}
-#marketing-tab>.extra>.placeholder{background-color:#FF7F00;}
-#advertisement-tab>.extra>.placeholder{background-color:#ff4800;}
+#back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  padding: 10px;
+  display: none;
+  background-color: #678e19;
+  color: #ffffff;
+  border: none;
+}
+
+#web-design-tab > .extra > .placeholder {
+  background-color: #9400d3;
+}
+#graphic-design-tab > .extra > .placeholder {
+  background-color: #0084ff;
+}
+#branding-tab > .extra > .placeholder {
+  background-color: #00ff00;
+}
+#logo-tab > .extra > .placeholder {
+  background-color: #ffff00;
+}
+#marketing-tab > .extra > .placeholder {
+  background-color: #ff7f00;
+}
+#advertisement-tab > .extra > .placeholder {
+  background-color: #ff4800;
+}
+
+.seperator {
+  width: 80%;
+  height: 4px;
+  border-radius: 10px;
+}
+.padx {
+  padding: 0 50px 0 50px;
+}
+.rev {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  width: 500px;
+  margin: 20px;
+}
+.profile-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #e7e7e7;
+  border-radius: 50%;
+  grid-column: 1 / span 1;
+}
+#contact-us,
+#footer {
+  background-color: #678e19;
+}
+input {
+  margin: 10px;
+  width: 400px !important;
+}
+.c-details {
+  margin: 10px;
+}
+.footer-col {
+  border-right: #ffffff 1px solid;
+}
+.c-details > i {
+  color: #678e19;
+}
