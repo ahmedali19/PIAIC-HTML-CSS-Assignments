@@ -6,8 +6,10 @@
 
 ### Email: ahmedalinicobar@gmail.com
 
-
 # Assignment List
+
+#### Note 1: The hyperlinks only work here: [link](https://ahmedali19.github.io/PIAIC-HTML-CSS-Assignments/)
+#### Note 2: CSS Assignment are not responsive except the final one
 
 | S.No. | Objective | Chapter | Link | Completed |
 | :--- | :--- | :---: | :--- | :---: |
@@ -23,5 +25,3 @@
 | Assignment 10 | CSS PIAIC Page | Chp. 11,12 | [10.html](/PIAIC-HTML-CSS-Assignments/Assignment%2010/10.html "Assignment 10")<br/>[style.css](/PIAIC-HTML-CSS-Assignments/Assignment%2010/style.css "Stylesheet")| :heavy_check_mark: |
 | Assignment 11 | CSS Cards | Chp. 13 | [11.html](/PIAIC-HTML-CSS-Assignments/Assignment%2011/11.html "Assignment 11")<br/>[style.css](/PIAIC-HTML-CSS-Assignments/Assignment%2011/style.css "Stylesheet")| :heavy_check_mark: |
 | Assignment 12 | CSS Final | All | [12.html](/PIAIC-HTML-CSS-Assignments/Assignment%2012%20(CSS%20Final)/index.html "Assignment 12")<br/>[style.css](/PIAIC-HTML-CSS-Assignments/Assignment%2012%20(CSS%20Final)/style.css "Stylesheet")| :heavy_check_mark: |
-
-#### *Note: CSS Assignment are not responsive except the final one
